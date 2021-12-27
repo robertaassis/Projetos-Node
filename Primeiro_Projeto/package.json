@@ -1,0 +1,28 @@
+{
+  "name": "primeiro_projeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertaassis/Projetos-Node.git"
+  },
+  "author": "roberta assis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertaassis/Projetos-Node/issues"
+  },
+  "homepage": "https://github.com/robertaassis/Projetos-Node#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "consign": "^0.1.6",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
