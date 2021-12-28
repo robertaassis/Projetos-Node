@@ -1,0 +1,9 @@
+GET http://localhost:3000/atendimentos
+###
+POST http://localhost:3000/atendimentos 
+Content-Type: application/json
+
+{
+    "userName": "Paula",
+    "occupation": "Waitress"
+}
